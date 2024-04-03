@@ -48,7 +48,7 @@
 
 .links a {
     text-decoration: none;
-    color: #333;
+    color: #ce2929d1;
     margin-right: 10px;
 }
 
@@ -61,4 +61,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+}
+b{
+    color: red;
 }

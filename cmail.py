@@ -2,7 +2,7 @@ import smtplib
 from email.message import EmailMessage
 def sendmail(to,subject,body):
     server=smtplib.SMTP_SSL('smtp.gmail.com',465)
-    server.login('ramtharaknadhalla@gmail.com','cwvyxxgrdlcbqecb')
+    server.login('ramtharaknadhalla@gmail.com','zsjq bpgy mhms shjr')
     msg=EmailMessage()
     msg['From']='ramtharaknadhalla@gmail.com'
     msg['Subject']=subject
